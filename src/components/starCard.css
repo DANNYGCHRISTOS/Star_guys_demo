@@ -1,0 +1,23 @@
+.starCard {
+    width: 200px;
+    height: 100px;
+    margin: 0px 20px 20px 0px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background-color: yellow
+}
+
+.starCard:hover {
+    background-color: blue
+}
+
+
+.detail-card {
+    position: fixed;
+    top: 10%;
+    height: 70%;
+    width: 60%;
+    left: 20%;
+    background-color: green;
+    text-align: left
+}
